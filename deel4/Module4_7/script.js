@@ -49,4 +49,3 @@ for (movie of movies) {
         wrap.appendChild(divje);
     }
 }
-    
